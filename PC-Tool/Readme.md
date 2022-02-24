@@ -1,3 +1,19 @@
+# ファイルリスト
+
+ - USB_LED_Controller
+   - USB_LED_Controller.exe　(通常版)
+   - USB_LED_Controller_source.zip　(通常版ソースコード)
+ - USB_LED_Controller_csv
+   - USB_LED_Controller_csv.exe　(CSV制御版)
+   - USB_LED_Controller_csv_source.zip　(CSV制御版ソースコード)
+ - USB_LED_Controller_multi_csv
+   - USB_LED_Controller_multi_csv.exe　(複数台CSV制御版)
+   - USB_LED_Controller_multi_csv_source.zip　(複数台CSV制御版ソースコード)
+ - LEDCtrlData_sample001.csv　(CSV制御/複数台CSV制御用サンプルCSV)
+ - LEDCtrlData_sample002.csv
+ - LEDCtrlData_sample003.csv
+ - LEDCtrlData_sample004.csv
+
 # LED制御CSV仕様
 
 1行ごとに制御開始からの経過秒数でLEDの輝度を指定します。
