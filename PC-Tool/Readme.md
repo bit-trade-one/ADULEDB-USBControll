@@ -21,7 +21,7 @@
 time\[s\],LED1,LED2,LED3,LED4,LED5,LED6,LED7,LED8,LED9,LED10
 
  - time:制御開始からの経過秒数 0.01秒単位で記入
- - LEDn:各LEDの輝度(nは1~10) 0~100まで1単位で記入
+ - LEDn:各LEDの輝度(nは1\~10) 0\~100まで1単位で記入
 
 例:
 ```
