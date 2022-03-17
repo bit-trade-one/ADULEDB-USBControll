@@ -19,7 +19,7 @@ LED点灯用の外部電源は付属しません。
 
 # PC制御アプリ
 
-### [アプリケーションソフトダウンロードリンク](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/PC-Tool/USB_Relay_Controll_CT_5Relay.exe)  
+### [アプリケーションソフト-ダウンロードリンク](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/PC-Tool/USB_Relay_Controll_CT_5Relay.exe)  
 
 ### [アプリケーションソフト・ソース](https://github.com/bit-trade-one/ADULEDB-USBControll/tree/master/PC-Tool)  
 
@@ -36,9 +36,9 @@ LED点灯用の外部電源は付属しません。
 
 ## ファームウェア
 
-### [ファームウェア](https://github.com/bit-trade-one/ADULEDB-USBControll/raw/master/Firmware/FW_LEDController_v100.zip)
+### [ファームウェア-ダウンロードリンク](https://github.com/bit-trade-one/ADULEDB-USBControll/raw/master/Firmware/FW_LEDController_v100.zip)
 
-### [ファームウェアアップデートツール](https://github.com/bit-trade-one/ADULEDB-USBControll/raw/master/Firmware/USBLEDController_UpdateTool.exe)
+### [ファームウェアアップデートツール-ダウンロードリンク](https://github.com/bit-trade-one/ADULEDB-USBControll/raw/master/Firmware/USBLEDController_UpdateTool.exe)
 
 ### [ファームウェアソース](https://github.com/bit-trade-one/ADULEDB-USBControll/tree/master/Firmware)
 
