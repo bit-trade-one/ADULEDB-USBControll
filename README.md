@@ -17,21 +17,33 @@ LED点灯用の外部電源は付属しません。
 
 ## [製品HPはこちらから](https://bit-trade-one.co.jp/aduledb/) 
 
-## [C#ライブラリはこちら](https://github.com/bit-trade-one/ADULEDB-USBControll/tree/master/Library-Cs)
+# PC制御アプリ
 
-## [C++ライブラリはこちら](https://github.com/bit-trade-one/ADULEDB-USBControll/tree/master/Library-Cpp)
+### [アプリケーションソフトダウンロードリンク](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/PC-Tool/USB_Relay_Controll_CT_5Relay.exe)  
 
-## [VBライブラリはこちら](https://github.com/bit-trade-one/ADULEDB-USBControll/tree/master/Library-VB)
+### [アプリケーションソフト・ソース](https://github.com/bit-trade-one/ADULEDB-USBControll/raw/master/PC-Tool/USB_LED_Controller/USB_LED_Controller_source.zip)  
 
-## [アプリケーションソフトはこちら](https://github.com/bit-trade-one/ADULEDB-USBControll/raw/master/PC-Tool/USB_LED_Controller/USB_LED_Controller.exe)  
+---
+## ライブラリ
 
-## [ファームウェアはこちら](https://github.com/bit-trade-one/ADULEDB-USBControll/raw/master/Firmware/FW_LEDController_v100.zip)
+### [C#ライブラリ](https://github.com/bit-trade-one/ADULEDB-USBControll/tree/master/Library-Cs)
 
-## [ファームウェアアップデートツールはこちら](https://github.com/bit-trade-one/ADULEDB-USBControll/raw/master/Firmware/USBLEDController_UpdateTool.exe)
+### [C++ライブラリ](https://github.com/bit-trade-one/ADULEDB-USBControll/tree/master/Library-Cpp)
 
-### [アプリケーションソースはこちら](https://github.com/bit-trade-one/ADULEDB-USBControll/raw/master/PC-Tool/USB_LED_Controller/USB_LED_Controller_source.zip)  
+### [Visual Basicライブラリ](https://github.com/bit-trade-one/ADULEDB-USBControll/tree/master/Library-VB)
 
-### [ファームウェアソースはこちら](https://github.com/bit-trade-one/ADULEDB-USBControll/raw/master/Firmware/FW_LEDController_v100_source.zip)
+---
+
+## ファームウェア
+
+### [ファームウェア](https://github.com/bit-trade-one/ADULEDB-USBControll/raw/master/Firmware/FW_LEDController_v100.zip)
+
+### [ファームウェアアップデートツール](https://github.com/bit-trade-one/ADULEDB-USBControll/raw/master/Firmware/USBLEDController_UpdateTool.exe)
+
+### [ファームウェアソース](https://github.com/bit-trade-one/ADULEDB-USBControll/raw/master/Firmware/FW_LEDController_v100_source.zip)
+
+---
+
 
 ## 製品仕様
 
