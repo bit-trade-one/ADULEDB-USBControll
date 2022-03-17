@@ -21,7 +21,7 @@ LED点灯用の外部電源は付属しません。
 
 ### [アプリケーションソフト-ダウンロードリンク](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/PC-Tool/USB_Relay_Controll_CT_5Relay.exe)  
 
-### [アプリケーションソフト・ソース](https://github.com/bit-trade-one/ADULEDB-USBControll/tree/master/PC-Tool)  
+#### [アプリケーションソフト・ソース](https://github.com/bit-trade-one/ADULEDB-USBControll/tree/master/PC-Tool)  
 
 ---
 ## ライブラリ
@@ -31,8 +31,17 @@ LED点灯用の外部電源は付属しません。
 ### [C++ライブラリ](https://github.com/bit-trade-one/ADULEDB-USBControll/tree/master/Library-Cpp)
 
 ### [Visual Basicライブラリ](https://github.com/bit-trade-one/ADULEDB-USBControll/tree/master/Library-VB)
-
 ---
+
+## 回路図
+
+### [回路図](https://github.com/bit-trade-one/ADULEDB-USBControll/blob/master/Schematics/usbledcnt-gen_v11_20190627_sch.pdf)
+
+#### [基板外形](https://github.com/bit-trade-one/ADULEDB-USBControll/blob/master/Schematics/ADULEDB%E5%9F%BA%E6%9D%BF%E5%A4%96%E5%BD%A2%E5%9B%B3.pdf)
+
+#### [基板図](https://github.com/bit-trade-one/ADULEDB-USBControll/blob/master/Schematics/usbledcnt-gen_v11_20190627_brd.pdf)
+---
+
 
 ## ファームウェア
 
@@ -40,7 +49,7 @@ LED点灯用の外部電源は付属しません。
 
 ### [ファームウェアアップデートツール-ダウンロードリンク](https://github.com/bit-trade-one/ADULEDB-USBControll/raw/master/Firmware/USBLEDController_UpdateTool.exe)
 
-### [ファームウェアソース](https://github.com/bit-trade-one/ADULEDB-USBControll/tree/master/Firmware)
+#### [ファームウェアソース](https://github.com/bit-trade-one/ADULEDB-USBControll/tree/master/Firmware)
 
 ---
 
