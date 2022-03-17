@@ -16,6 +16,7 @@ LED本体は付属しません。
 LED点灯用の外部電源は付属しません。  
 
 ### [製品HPはこちらから](https://bit-trade-one.co.jp/aduledb/) 
+### [FAQ](https://github.com/bit-trade-one/ADULEDB-USBControll/blob/master/FAQ.md) 
 
 # PC制御アプリ
 
