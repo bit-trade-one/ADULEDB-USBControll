@@ -15,7 +15,7 @@ PWMコントロールには32bitマイコンを使用しチラつきの無い点
 LED本体は付属しません。  
 LED点灯用の外部電源は付属しません。  
 
-## [製品HPはこちらから](https://bit-trade-one.co.jp/aduledb/) 
+### [製品HPはこちらから](https://bit-trade-one.co.jp/aduledb/) 
 
 # PC制御アプリ
 
