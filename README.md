@@ -1,3 +1,4 @@
+#### [GitHubの使い方はこちらの記事をご確認ください。](https://bit-trade-one.co.jp/h2gh/)
 # ADULEDB-USBControll
 
 ## 細かなLEDの調整が可能！
@@ -14,7 +15,7 @@ PWMコントロールには32bitマイコンを使用しチラつきの無い点
 LED本体は付属しません。  
 LED点灯用の外部電源は付属しません。  
 
-## [製品の詳細はこちら](https://bit-trade-one.co.jp/aduledb/) 
+## [製品HPはこちらから](https://bit-trade-one.co.jp/aduledb/) 
 
 ## [C#ライブラリはこちら](https://github.com/bit-trade-one/ADULEDB-USBControll/tree/master/Library-Cs)
 
