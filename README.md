@@ -52,7 +52,7 @@ LED点灯用の外部電源は付属しません。
 
 ### [ファームウェアアップデートツール-ダウンロードリンク](https://github.com/bit-trade-one/ADULEDB-USBControll/raw/master/Firmware/USBLEDController_UpdateTool.exe)
 
-### [ファームウェア書き換え手順](#ファームウェア書き換え手順)
+### [ファームウェア書き換え手順](#ファームウェア書き換え手順-1)
 
 #### [ファームウェアソース等](https://github.com/bit-trade-one/ADULEDB-USBControll/tree/master/Firmware)
 
