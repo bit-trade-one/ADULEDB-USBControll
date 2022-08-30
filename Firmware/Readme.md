@@ -49,7 +49,7 @@
 3.左下の接続ステータスで接続している制御基板が認識されていることを確認する
 ![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/03/12connect.png)
 
-4.各基板ごとの\[選択\]ボタンをクリックし、[制御用CSVファイル](https://github.com/bit-trade-one/ADULEDB-USBControll/tree/master/PC-Tool)を開く  
+4.各基板ごとの\[選択\]ボタンをクリックし、[制御用CSVファイル](https://github.com/bit-trade-one/ADULEDB-USBControll/tree/master/CSV)を開く  
 繰り返し制御を行う場合は\[Loop\]のチェックボックスを入れる
 ![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/03/13select.png)
 
