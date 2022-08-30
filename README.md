@@ -72,7 +72,7 @@ LED点灯用の外部電源は付属しません。
 
 2.PCと基板をUSBで接続する
 
-3."USBLEDController_UpdateTool.exe"を起動し、左下が"USB Connected"になっていることを確認する
+3.[USBLEDController_UpdateTool.exe](https://github.com/bit-trade-one/ADULEDB-USBControll/raw/master/Firmware/USBLEDController_UpdateTool.exe)をダウンロード・起動し、左下が"USB Connected"になっていることを確認する
 ![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/03/01start.png)
 
 4."Device ID"を1台ずつ変更し、"Update"ボタンをクリックする
