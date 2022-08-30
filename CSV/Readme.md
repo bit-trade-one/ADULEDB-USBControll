@@ -1,5 +1,5 @@
 # filelist
-[ダウンロード](https://github.com/bit-trade-one/ADULEDB-USBControll/raw/master/CSV/LEDCtrlData_sample.zip)してお使いください。  
+[ダウンロード](https://github.com/bit-trade-one/ADULEDB-USBControll/raw/master/CSV/LEDCtrlData_sample.zip)・展開してお使いください。  
 
 - LEDCtrlData_sample.zip(CSV制御/複数台CSV制御用サンプルCSV)
   - LEDCtrlData_sample001.csv　
