@@ -12,7 +12,8 @@
    
 ## 複数台制御をするには
 
-複数台制御をするには、それぞれ別のデバイスIDファームウェアが書き込まれたADULEDBが必要です。  
+複数台制御をするには、それぞれ別のデバイスIDファームウェアが書き込まれたADULEDBと、  
+専用の制御ソフトが必要です。  
 ファームウェアとは製品に書き込まれたソフトウェアのことを指します。  
 
 下記ファームウェア書き換え手順を実行し、それぞれに別のファームウェアを記載してください。
@@ -40,7 +41,7 @@
 
 ## 複数台制御手順
 
-1.[USB_LED_Controller_multi_csv.exe](https://github.com/bit-trade-one/ADULEDB-USBControll/raw/master/PC-Tool/USB_LED_Controller_multi_csv/USB_LED_Controller_multi_csv.exe)を起動する
+1.[USB_LED_Controller_multi_csv.exe](https://github.com/bit-trade-one/ADULEDB-USBControll/raw/master/PC-Tool/USB_LED_Controller_multi_csv/USB_LED_Controller_multi_csv.exe)をダウンロード・起動する
 ![](https://bit-trade-one.co.jp/wp/wp-content/uploads/2022/03/11boot.png)
 
 2.PCと基板をUSBで接続する
