@@ -20,7 +20,7 @@ LED点灯用の外部電源は付属しません。
 
 # PC制御アプリ
 
-### [アプリケーションソフト-ダウンロードリンク](https://github.com/bit-trade-one/ADUBRU-RelayControll/raw/master/PC-Tool/USB_Relay_Controll_CT_5Relay.exe)  
+### [アプリケーションソフト-ダウンロードリンク](https://github.com/bit-trade-one/ADULEDB-USBControll/raw/master/PC-Tool/USB_LED_Controller/USB_LED_Controller.exe)  
 
 #### [アプリケーションソフト・ソース等](https://github.com/bit-trade-one/ADULEDB-USBControll/tree/master/PC-Tool)  
 
