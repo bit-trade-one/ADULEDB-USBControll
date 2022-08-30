@@ -1,9 +1,11 @@
 # filelist
-ダウンロードしてお使いください。
- - LEDCtrlData_sample001.csv　(CSV制御/複数台CSV制御用サンプルCSV)
- - LEDCtrlData_sample002.csv
- - LEDCtrlData_sample003.csv
- - LEDCtrlData_sample004.csv
+ダウンロードしてお使いください。  
+
+- LEDCtrlData_sample.zip(CSV制御/複数台CSV制御用サンプルCSV)
+  - LEDCtrlData_sample001.csv　
+  - LEDCtrlData_sample002.csv
+  - LEDCtrlData_sample003.csv
+  - LEDCtrlData_sample004.csv
 
 # LED制御CSV仕様
 
