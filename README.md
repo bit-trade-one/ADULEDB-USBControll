@@ -24,7 +24,6 @@ LED点灯用の外部電源は付属しません。
 
 ### [複数台制御手順](#複数台制御をするには)
 
-#### [アプリケーションソフト・ソース等](https://github.com/bit-trade-one/ADULEDB-USBControll/tree/master/PC-Tool)  
 
 ---
 ## ライブラリ
