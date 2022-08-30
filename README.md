@@ -20,7 +20,7 @@ LED点灯用の外部電源は付属しません。
 
 # PC制御アプリ
 
-### [アプリケーションソフト-ダウンロードリンク](https://github.com/bit-trade-one/ADULEDB-USBControll/raw/master/PC-Tool/USB_LED_Controller/USB_LED_Controller.exe)  
+### [制御PCソフト一覧](https://github.com/bit-trade-one/ADULEDB-USBControll/tree/master/PC-Tool)  
 
 ### [複数台制御手順](#複数台制御をするには)
 
